@@ -5,9 +5,9 @@ App demonstration link: https://drive.google.com/file/d/1-mVsPrSc7H1-wEDwgKG3TpV
 Documentation link: https://drive.google.com/file/d/1kVwv620lfhYyw5xEoecOwNw6a85wVAmn/view?usp=sharing
 
 ## Članovi tima:
-  *Alagić Amina*
-	*Beglerović Vildana*
-  *Beglerović Vedad*
-	*Buturović Lejla*
-  *Rovčanin Nejra*
+*  *Alagić Amina*
+*	*Beglerović Vildana*
+* *Beglerović Vedad*
+*	*Buturović Lejla*
+*  *Rovčanin Nejra*
 
